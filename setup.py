@@ -12,7 +12,7 @@ setup(
         'matplotlib'
     ],
     description='A package to explain image classifications using Grad-CAM and responsibility calculation.',
-    author='Souham Sengupta',
+    author='Souham Sengupta, Andrei Luca Rusu',
     author_email='senguptasouham@gmail.com',
     url='https://github.com/rickOS98/DeepCover',  # Replace with your repository URL
     classifiers=[
