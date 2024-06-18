@@ -1,0 +1,9 @@
+README.md
+setup.py
+DeepCover_Mod/__init__.py
+DeepCover_Mod/main.py
+deepcover.egg-info/PKG-INFO
+deepcover.egg-info/SOURCES.txt
+deepcover.egg-info/dependency_links.txt
+deepcover.egg-info/requires.txt
+deepcover.egg-info/top_level.txt
